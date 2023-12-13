@@ -5,52 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Phone Numbers</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-
-        th,
-        td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        form {
-            margin-bottom: 20px;
-        }
-
-        select,
-        input {
-            padding: 8px;
-            margin-right: 10px;
-        }
-
-        .pagination {
-            padding: 8px;
-            margin-right: 5px;
-            text-decoration: none;
-            border: 1px solid #ddd;
-            color: black;
-            border-radius: 4px;
-        }
-
-        .pagination:hover {
-            background-color: #ddd;
-        }
-    </style>
+    <link rel="stylesheet" href="/axon-oop/templates/css/style.css">
 </head>
 
 <body>
