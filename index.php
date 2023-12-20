@@ -1,5 +1,5 @@
 <?php
-
+// test
 include_once 'includes/db.php';
 
 // Initialize the page
